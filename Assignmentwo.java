@@ -6,7 +6,7 @@ import java.util.*;
 public class Assignmentwo {
 
 	public static void main(String[] args) throws Exception {
-    String[] files = { "regional-global-weekly-2020-01-17--2020-01-24.csv" };
+    String[] files = { "regional-global-weekly-2020-01-17--2020-01-24.csv" , "regional-us-weekly-2020-01-17--2020-01-24 (1).csv" };
 		LinkedList<Song> list = new LinkedList<>(); 
                 // enchance for loop 
 		for (String s : files) {
